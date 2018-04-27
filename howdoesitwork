@@ -1,0 +1,10 @@
+# Random-Password-Generator
+*Note: You need to run this program through an ide installed on your system and not the one you can find online*
+It takes your system date and time and then uses a physics formula to compute some random no.s,each digit of this random number will be used to compute different part of the password.
+The Password should have following constraints
+  *1. It must have 2 capital letters
+  2. It must have 2 small letters
+  3. It should not have any space
+  4. It should have at least 1 special character
+  5. It should be less than 32 digits and more than or equal to 12 digits.
+  
